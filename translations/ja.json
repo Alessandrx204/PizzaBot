@@ -1,6 +1,6 @@
 {
-    "user_whitelisted": "L'utente {user_id} è già nella whitelist.",
-    "user_added_whitelist": "Utente {user_id} aggiunto alla whitelist.",
+    "user_whitelisted": "{user_id}のユーザーを許可リストにもう登録した",
+    "user_added_whitelist": "{user_id}のユーザーを許可リストに登録した",
     "user_not_in_whitelist": "L'utente {user_id} non è nella whitelist.",
     "user_removed_whitelist": "Utente {user_id} rimosso dalla whitelist.",
     "blocked_reported": "Sei stato bloccato e segnalato per spam.",
