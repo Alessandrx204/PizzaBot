@@ -1,9 +1,9 @@
 {
-    "user_whitelisted": "{user_id}のユーザーを許可リストにもう登録した。",
+    "user_whitelisted": "{user_id}のユーザーを許可リスト既に登録した。",
     "user_added_whitelist": "{user_id}のユーザーを許可リストに登録した。",
     "user_not_in_whitelist": "{user_id}のユーザーが許可リストに含まれない。",
     "user_removed_whitelist": "{user_id}のユーザーがあなたの許可リストから削除した。",
-    "blocked_reported": "Sei stato bloccato e segnalato per spam.",
+    "blocked_reported": "あなたがブロックされたとスパムとして報告された。",
     "warning_message": "Avvertimento {current_warning}/{warning_count}: Non puoi contattare questo utente. Per favore, smetti di inviare messaggi, altrimenti sarai bloccato.",
     "command_in_groups_only": "Questo comando funziona solo nei gruppi.",
     "mention_or_reply_user": "Devi rispondere al messaggio di un utente o menzionare l'utente per usare questo comando.",
