@@ -9,7 +9,7 @@
     "mention_or_reply_user": "Devi rispondere al messaggio di un utente o menzionare l'utente per usare questo comando.",
     "about_user": "Informazioni su {first_name}:",
     "user_id": "ID: {user_id}",
-    "user_name": "Nome: {first_name} {last_name}",
+    "user_name": "名: {first_name} {last_name}",
     "user_username": "Username: @{username}",
     "user_datacenter": "Datacenter: {datacenter}",
     "left_group": "グルップを退出した。",
